@@ -1,0 +1,12 @@
+.nav{
+    width: inherit;
+    height: 9vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.nav h2{
+color: white;
+font-family: gilroy;
+font-weight: 400;
+}

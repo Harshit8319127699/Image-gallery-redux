@@ -1,0 +1,21 @@
+.container2{
+    width: inherit;
+    height:71vh;
+    padding: 4vmax;
+    display: flex;
+    flex-wrap: nowrap
+}
+.imagecard{
+    width: 12vw;
+    height: 29vh;
+    border-radius: 1vmax;
+    overflow: hidden;
+    margin-left: 1.7vmax;
+}
+.imagecard img{
+    height: inherit;
+}
+.head{
+    color: white;
+    margin: 0 auto;
+}
